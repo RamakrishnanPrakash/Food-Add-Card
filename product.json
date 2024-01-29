@@ -1,0 +1,16 @@
+{
+    "product":[
+        {"fid":1,"fname":"Briyani","frate":"100","fimage":"https://b.zmtcdn.com/data/pictures/chains/4/3000274/8db9585bde3e1b5ba39ac76192de31a7_o2_featured_v2.jpg?output-format=webp"},
+       {"fid":2,"fname":"Burger King","frate":"150","fimage":"https://b.zmtcdn.com/data/pictures/chains/0/3002360/8c49ba335683507ba6ddee2dc84966e8_o2_featured_v2.jpg?output-format=webp"},
+        {"fid":3,"fname":"Full miels","frate":"200","fimage":"https://b.zmtcdn.com/data/pictures/5/3001395/8e81b350b339e67c0aadf93277c4eb83_o2_featured_v2.jpg"},
+        {"fid":4,"fname":"Dindigul Thalappakatti","frate":"399","fimage":"https://b.zmtcdn.com/data/pictures/chains/2/3002282/7d59d4ed9c6e0beb21a76e7a5ae3d87b_o2_featured_v2.jpg"},
+        {"fid":5,"fname":"Dhosa","frate":"150","fimage":"https://b.zmtcdn.com/data/pictures/chains/3/3000293/a67239e7f0a96f17e2b376ddf1c52b62_o2_featured_v2.jpg"},
+    
+        {"fid":6,"fname":"Egg rice","frate":"200","fimage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXQCXgwf5EoyxNwRfJ1x882LkaT7B_FWReQ3sL6QBKYkeCyunEd2R1e_VzHhkFpjzwUE&usqp=CAU"}
+    
+    
+    ]
+  
+}
+
+
